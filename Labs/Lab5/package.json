@@ -1,0 +1,23 @@
+{
+  "name": "lab05_express",
+  "version": "1.0.0",
+  "description": "Using express framework to set up the server",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./server.js localhost 8081",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "101579629_COMP3123-exec05"
+  },
+  "author": "Mohamed Amine",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^5.0.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
