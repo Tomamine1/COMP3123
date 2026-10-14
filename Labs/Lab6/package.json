@@ -1,0 +1,17 @@
+{
+  "name": "week06_mongoose",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Set up the connection of your DB Mongo Server to your web serv er on Express",
+  "license": "ISC",
+  "author": "Amine OUATAR",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "mongoose": "^9.11.2"
+  }
+}
