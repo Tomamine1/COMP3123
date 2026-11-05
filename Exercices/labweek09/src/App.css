@@ -1,0 +1,42 @@
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 30px 20px;
+}
+
+.React-logo {
+  height: 400px;
+  width: 400px;
+  margin-bottom: 15px;
+}
+
+h1 {
+  color: black;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: black;
+  font-size: 25px;
+  margin-bottom: 30px;
+}
+
+.student-info h3 {
+  color: black;
+  font-size: 21px;
+  margin: 20px;
+}
+
+.student-info h4 {
+  color: black;
+  font-size: 19px;
+  margin: 20px;
+}
+
+.student-info h5 {
+  color: black;
+  font-size: 17px;
+  margin: 20px;
+}
